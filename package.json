@@ -1,0 +1,22 @@
+{
+  "name": "orbit-db-browser",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillmac/orbit-db-browser.git"
+  },
+  "author": "Phillip Mackintosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phillmac/orbit-db-browser/issues"
+  },
+  "homepage": "https://github.com/phillmac/orbit-db-browser#readme",
+  "dependencies": {
+    "ipfs": "^0.36.3"
+  }
+}
