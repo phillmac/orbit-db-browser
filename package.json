@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/phillmac/orbit-db-browser#readme",
   "dependencies": {
-    "ipfs": "^0.36.3"
+    "ipfs": "^0.36.3",
+    "orbit-db": "^0.21.0"
   }
 }
